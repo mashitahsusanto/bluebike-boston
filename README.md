@@ -1,3 +1,19 @@
+# GA Capstone Project: Boston Bike Hire
+
+This repository contains the documentation and code for my Capstone project on a Blue Bike share, a government owned bike share system, undertaken as part of General Assembly's Data Science Immersive course between September 2021 and December 2021.
+
+**Part 1: Pitch and Problem Statement** - Define problem statement, potential audience, goals, success metrics and data sources of two potential ideas for the Capstone. Present the two proposal in a short presentation, describing the methods used. written proposal is also uploaded, including the chosen dataset (Bluebike)
+
+**Part 2: Dataset and Data Collection** - Source the required data for the project, perform preliminary cleaning of the data. document the progress in a short blog from Jupyter Notebook
+
+**Part 3: EDA and Data Visualisation** - Describe your data in depth using the EDA method, cleaning and rearranging the data, while maintaining the perspective on our goal and scope respectively. 
+
+
+**Part 4: Modelling** - Detail your model and approach with concisely commented code, beginning with executive summary. Evaluate model performance and discuss results. Submit a complete notebook of the model. This include regression models and Gridsearch 
+
+**Part 5: Presentation** - Host a short, well rehearsed presentation of your project for a non-technical audience. Cover goals, success criteria, data, approach, basic description of model, findings, risks/limitations, impact, next steps and conclusions.
+
+
 # Boston Bike Share
 
 Massachusetts, is one of the most bike-friendly states in the country, with Boston and Cambridge considered the best places for cyclists. With a population of 4.87 million, Boston is ranked No. 6 most bikeable city in the US. Since the late 19th century, cycling has been a popular activity in Boston, for both recreation and commuting around campuses of the numerous universities in the city. The state worked hard by investing in updated infrastructure, building roads with bicycle tracts, and founding one of the nation’s first public bike-sharing systems, Bluebike. 
@@ -15,9 +31,11 @@ BlueBikes is a government-owned bike-share company, all across Arlington, Boston
 - Future Work
 
 
-# Hypothesis
+# Hypothesis and Aim 
 
-How well can we predict a user's Trip Duration?
+**How well can we predict a user's Trip Duration?**
+
+The aim was to build a model that would classify whether it is possible to predict the trip duration of a user within the dataset. 
 
 
 # Goal
